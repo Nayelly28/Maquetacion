@@ -1,0 +1,12 @@
+.d-flex button{
+	margin: 1.5em 0.4em;
+	padding: 0.3em 1.2em;
+}
+.d-flex table{
+	margin: 1em 10em;
+}
+
+table span .btnedit{
+	color: #33D7B9 ;
+	cursor: pointer;
+}
